@@ -154,19 +154,30 @@
      #+BEGIN_EXAMPLE
      Firefox --> Preferences --> Advanced --> Network --> Settings 
      #+END_EXAMPLE
-** Analytics 
-*** How workshop coordinator will fetch and share the analytics logs?
-    1. Workshop coordinator will be given a shell script
+** Analytics and Feedback 
+*** How workshop coordinator will fetch and share the analytics feedback logs?
+    1. Workshop coordinator will be given a shell script.
+       + Login as =vlabs= user to machine using following credentials
+	 #+BEGIN_EXAMPLE
+	 username: vlabs
+         password : admin123
+ 	 #+END_EXAMPLE
+       + Login as root using following credentials
+	 #+BEGIN_EXAMPLE
+	 su -
+	 password : admin123
+	 #+END_EXAMPLE
+       + Then run the following script
+         #+BEGIN_EXAMPLE
+	 sudo sh /root/workshop-anlytics/fetch_analytics.sh <InstituteName>   #InstituteName should not have spaces.
+         #+END_EXAMPLE
        
-    2. Command line tool or script will grab the compressed log file
-       and will copy it on desktop.
-       
-       For above 1 and 2 steps, see [[./analytics-from-portable-media.org][the document]] and apply the changes
-       as mentioned
-       
-    3. Workshop coordinator to send out the compressed log file and
-       share it on email (analytics-admin@vlabs.ac.in)
-*** How analytics-admin@vlabs.ac.in will restore logs?
+         The above script will get the dump of analytics and feedbacks
+         and saves as =<InstituteName>.tar.gz=
+    2. Workshop coordinator to send out the compressed log file
+       =<InstituteName>.tar.gz= and
+       share it on email (engg@vlabs.ac.in)
+*** How engg@vlabs.ac.in will restore logs?
     1. Download the compressed zip file and decompress it.
     2. Copy the compressed zip file in ELK-analytics server.
     3. Execute a simple python script which reads from this log file

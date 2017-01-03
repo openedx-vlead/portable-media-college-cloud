@@ -2,18 +2,18 @@
 #+Author: VLEAD
 
 * Indrouction
-  Use the portable media and conduct the workshop in any college or
-  institute.
+  Use the portable media and conduct the workshop offline in any
+  college or institute .
 
   The document contains mainly about the workshops conducted in
   various institutes using College cloud portable-media. 
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
     to perform experiments or to use the labs.
-  - Conduct the workshop using College cloud portable-media.
+  - Conduct the workshop offline using College cloud portable-media.
   - After the workshop, Collect the analytics and feedback using the
-    script. Send these analytics and feedback to engg@vlabs.ac.in ( Central
-    repository of analyitics)
+    script. Send these analytics and feedback to =engg@vlabs.ac.in= (
+    Central repository of analyitics)
   - Note down the issues if there are any, during the workshop and
     report the issues to =engg@vlabs.ac.in=
 
@@ -44,6 +44,7 @@
    - Portable-Media 
    - Wi-Fi router
    - LAN cables
+   - [[./user-manual-for-portablemedia.org][User Manual]]
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
