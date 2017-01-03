@@ -40,11 +40,16 @@
    - Wi-Fi Router
    - 8/16/24 port switch (Optional)
    - LAN cables
+   - USB (Pendrive) 4GB at least, to collect analytics and feedbacks
+   - Active Internet connection to send the collected analytics and
+     feedbacks from pendrive to =engg@vlabs.ac.in=
+   
 ** Requirements from VLEAD
    - Portable-Media 
    - Wi-Fi router
    - LAN cables
    - [[./user-manual-for-portablemedia.org][User Manual]]
+   - 4GB Pendrive
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
