@@ -3,20 +3,25 @@
 
 * Indrouction
   Use the portable media and conduct the workshop offline in any
-  college or institute .
+  college or institute.
 
-  The document contains mainly about the workshops conducted in
-  various institutes using College cloud portable-media. 
+  The document contains mainly about the workshops to be conducted and
+  conducted offline in various institutes using College cloud
+  portable-media.
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
-    to perform experiments or to use the labs.
+    to perform experiments or to use the labs without the Internet
+    connection.
+
   - Conduct the workshop offline using College cloud portable-media.
-  - After the workshop, Collect the analytics and feedback using the
-    script. Send these analytics and feedback to =engg@vlabs.ac.in= (
-    Central repository of analyitics)
+
+  - After the workshop, Collect the analytics and feedbacks using the
+    shell script that is located in =/root/workshop-analytics/= on
+    portable media. Send these analytics and feedback to
+    =engg@vlabs.ac.in= ( Central repository of analyitics)
+
   - Note down the issues if there are any, during the workshop and
     report the issues to =engg@vlabs.ac.in=
-
 
 * Requirements for the workshop
 ** Requirements from College/Institute
