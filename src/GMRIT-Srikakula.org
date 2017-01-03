@@ -10,6 +10,8 @@
     repository of analyitics)
   - Note down the issues if there are any, during the workshop and
     report the issues to =engg@vlabs.ac.in=
+* User manual to conduct workshop using Portable-media
+  [[./user-manual-for-portablemedia.org][User Manual]]
 * Status of the Portable-Media before the Pilot test
 * Status of the Portable-Media during the pilot test
 * Status of the Portable-Media after the Pilot test
