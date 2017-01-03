@@ -1,4 +1,5 @@
 #+Title: Pilot Workshop at GMRIT, Srikakulam
+#+Author: VLEAD
 
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
@@ -9,3 +10,6 @@
     repository of analyitics)
   - Note down the issues if there are any, during the workshop and
     report the issues to =engg@vlabs.ac.in=
+* Status of the Portable-Media before the Pilot test
+* Status of the Portable-Media during the pilot test
+* Status of the Portable-Media after the Pilot test
