@@ -1,0 +1,49 @@
+#+TITLE: Portable-Media for College/Institute.
+#+Author: VLEAD
+
+* Indrouction
+  Use the portable media and conduct the workshop in any college or
+  institute.
+
+  The document contains mainly about the workshops conducted in
+  various institutes using College cloud portable-media. 
+* Objective of the workshop
+  - Portable media should be able to serve the labs to the students
+    to perform experiments or to use the labs.
+  - Conduct the workshop using College cloud portable-media.
+  - After the workshop, Collect the analytics and feedback using the
+    script. Send these analytics and feedback to engg@vlabs.ac.in ( Central
+    repository of analyitics)
+  - Note down the issues if there are any, during the workshop and
+    report the issues to =engg@vlabs.ac.in=
+
+
+* Requirements for the workshop
+** Requirements from College/Institute
+   - Minimum system configuration.
+     #+BEGIN_EXAMPLE
+     Processor : Intel(R) Core(TM) i7-3770 CPU @ 3.40GHz   ( Model : intel-db75en)
+     RAM : 16 GB
+     SMPS : 600 W
+     CPUs: 8
+     MotherBoard wattage: 77 W
+     #+END_EXAMPLE
+     
+   The above system configuration is suitable for following 
+   + Less number of labs( 5-10 ) will be running in the cluster 
+   + 5-10 students will be using those  labs.
+
+   
+   If we can use better processor than the above processor such as
+   =Intel Xenon= processor and good enough RAM(32 GB), So that we can
+   use this portable media without any limitations.
+   - Wi-Fi Router
+   - 8/16/24 port switch (Optional)
+   - LAN cables
+** Requirements from VLEAD
+   - Portable-Media 
+   - Wi-Fi router
+   - LAN cables
+* Workshops 
+** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
+   - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]

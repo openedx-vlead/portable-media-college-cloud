@@ -1,0 +1,11 @@
+#+Title: Pilot Workshop at GMRIT, Srikakulam
+
+* Objective of the workshop
+  - Portable media should be able to serve the labs to the students
+    to perform experiments or to use the labs.
+  - Conduct the workshop using College cloud portable-media.
+  - After the workshop, Collect the analytics and feedback using the
+    script. Send these analytics and feedback to engg@vlabs.ac.in ( Central
+    repository of analyitics)
+  - Note down the issues if there are any, during the workshop and
+    report the issues to =engg@vlabs.ac.in=
