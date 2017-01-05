@@ -13,22 +13,21 @@
 
 * Overall Plan
 ** Introduction
+   Introduction about Portable-media
+   + What is Portable-Media?
 ** Demo Lab
-   Image Processing Lab
+   - =Image Processing Lab=
 ** Limitations
    - 15-20 students in one run
-
-** Duration 
-* How many students and groups ? 
-     If 20 students per 30 mins, so for 100 students=5 groups, 5*30mins=
-     150mins= 2 hr 30 mins
-
-* Which Labs + how many labs at a time ?   
-   - Two labs at a time 
-     + Problem solving (cse04-iiith.vlabs.a.cin)
-     + Image Processing (cse19-iiith.vlabs.ac.in)
-* Feedback collection with reference to portable media 
-   
+** Number of Students and Workshop duration 
+   Let's say, for example, 20 students per 30 mins, so for 100
+   students=5 groups, 5*30mins= 150mins= 2 hrs 30 mins
+** How many labs at a time + Which Labs?   
+  - Two labs at a time 
+    + Problem solving (cse04-iiith.vlabs.a.cin)
+    + Image Processing (cse19-iiith.vlabs.ac.in)
+** Feedback collection with reference to portable media 
+   After the workshop, collecting feedback on portable-media
 
 * User manual to conduct workshop using Portable-media
   [[./user-manual-for-portablemedia.org][User Manual]]
