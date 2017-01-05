@@ -1,12 +1,10 @@
 #+TITLE: Portable-Media for College/Institute.
 #+Author: VLEAD
 
-* Indrouction
+* Introduction
   Use the portable media and conduct the workshop offline in any
   college or institute.
-
-  The document contains mainly about the workshops to be conducted and
-  conducted offline in various institutes using portable-media.
+  The document contains mainly about the workshops to be conducted offline in various institutes using portable-media.
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
     to perform experiments or to use the labs without the Internet
@@ -56,4 +54,9 @@
    - 4GB Pendrive
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
+*** Overall Plan ( Introduction, demo lab, limitations,duration)
+*** How many students and groups ? 
+*** Which Labs + how many labs at a time ?   
+*** Feedback collection with reference to portable media 
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
+     
