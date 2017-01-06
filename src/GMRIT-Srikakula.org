@@ -3,11 +3,16 @@
 
 * Objective of the workshop
   - Portable media should be able to serve the labs to the students
-    to perform experiments or to use the labs.
-  - Conduct the workshop using College cloud portable-media.
-  - After the workshop, Collect the analytics and feedback using the
-    script. Send these analytics and feedback to engg@vlabs.ac.in ( Central
-    repository of analyitics)
+    to perform experiments or to use the labs without the Internet
+    connection.
+
+  - Conduct the workshop offline using portable-media.
+
+  - After the workshop, Collect the analytics and feedbacks using the
+    shell script that is located in =/root/workshop-analytics/= on
+    portable media. Send these analytics and feedback to
+    =engg@vlabs.ac.in= ( Central repository of analyitics)
+
   - Note down the issues if there are any, during the workshop and
     report the issues to =engg@vlabs.ac.in=
 
@@ -27,7 +32,8 @@
     + Problem solving (cse04-iiith.vlabs.a.cin)
     + Image Processing (cse19-iiith.vlabs.ac.in)
 ** Feedback collection with reference to portable media 
-   After the workshop, collecting feedback on portable-media
+   After the workshop, collecting feedbacks and analytics on
+   portable-media.
 
 * User manual to conduct workshop using Portable-media
   [[./user-manual-for-portablemedia.org][User Manual]]
