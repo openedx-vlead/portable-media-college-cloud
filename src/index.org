@@ -54,9 +54,5 @@
    - 4GB Pendrive
 * Workshops 
 ** GMRIT, Srikakulam, 9th Jan 2017 and 10th Jan 2017.
-*** Overall Plan ( Introduction, demo lab, limitations,duration)
-*** How many students and groups ? 
-*** Which Labs + how many labs at a time ?   
-*** Feedback collection with reference to portable media 
    - [[./GMRIT-Srikakula.org][GMRIT,Srikakulam]]
      

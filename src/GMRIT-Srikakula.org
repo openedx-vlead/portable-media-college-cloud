@@ -46,14 +46,14 @@
       for college cloud setup. So that, every one can access virtual
       labs over LAN. I have configured college cloud with the five
       ips.
-      + I have taken client machine to test college cloud in the same
-	LAN.
-      + Open edX platform was opening but lab was opening very slow.
-      + Then I went to the other place where workshop is going
+      - I have taken client machine to test college cloud in the same
+        LAN.
+      - Open edX platform was opening but lab was opening very slow.
+      - Then I went to the other place where workshop is going
 	on. Open edX platform was not opening
 
     - I thought of using normal computer that is there in workshop lab
-      + It has very less system configuration
+      - It has very less system configuration
 	- RAM : 4GB ( which is not enough for our college cloud)
     - They could not bring other machine that has better system
       configuration
@@ -65,33 +65,33 @@
       Processor model : Intel(R) Core(TM) i3-5005U CPU @ 2.00GHz
       #+END_EXAMPLE
 *** Afternoon Session 2:00PM to 4:30 PM
-      + Booted Sony 1 TB USB HDD from my laptop
-      + Connected to Wifi-router
-      + Removed Incoming connection in the lab in switch from where
-	all desktop machine gets DHCP IPs.
+    + Booted Sony 1 TB USB HDD from my laptop
+    + Connected to Wifi-router
+    + Removed Incoming connection in the lab in switch from where
+      all desktop machine gets DHCP IPs.
 
-      + Took one LAN cable and established LAN connection between
-	switch and Wi-Fi router
-      + Now all desktop machines are getting dhcp ip from wi-fi router
-      + 30 machines are now connected to college cloud
-      + Around 30 students attended to the college cloud pilot
-	test.
-      + Used *Problem Solving* lab to show demo
-      + Then, We asked students to perform experiments on that lab
-      + After 40 minutes, I have started another lab *Data structure* (
-	Students choice). That means there are now two labs running in
-	college college.
-      + Out of 30 students, 26 students were performing experiments on
-	two labs
-      + We asked students to choose any lab from the running two labs
-	*Problem solving* and *Data structures* and perform any
-	experiments.
-      + Final result, Every student was able to perform any experiment
-	from any lab from the two labs mentioned above without any
-	loading issue.
-      + At around 4:30 PM, we have asked students to submit their
-	feedback  on college cloud by providing feedback forms(Hard
-	copy)
+    + Took one LAN cable and established LAN connection between
+      switch and Wi-Fi router
+    + Now all desktop machines are getting dhcp ip from wi-fi router
+    + 30 machines are now connected to college cloud
+    + Around 30 students attended to the college cloud pilot
+      test.
+    + Used *Problem Solving* lab to show demo
+    + Then, We asked students to perform experiments on that lab
+    + After 40 minutes, I have started another lab *Data structure* (
+      Students choice). That means there are now two labs running in
+      college college.
+    + Out of 30 students, 26 students were performing experiments on
+      two labs
+    + We asked students to choose any lab from the running two labs
+      *Problem solving* and *Data structures* and perform any
+      experiments.
+    + Final result, Every student was able to perform any experiment
+      from any lab from the two labs mentioned above without any
+      loading issue.
+    + At around 4:30 PM, we have asked students to submit their
+      feedback  on college cloud by providing feedback forms(Hard
+      copy)
 
 
 
