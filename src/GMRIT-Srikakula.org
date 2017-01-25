@@ -124,8 +124,7 @@
 *** Issues while workshop is going on 
     Feedback link was not working on edX platform.
 
-
-* Conclusion
+* Analysis/observations
   - Over the LAN :: 50 students can use College Cloud at a time using
                     the above system configuration for 5 labs. 
 
@@ -167,3 +166,9 @@
                 vagrant box instead of working one. We had 4-5 vagrant
                 boxes in College cloud.
 
+* Conclusion
+  As we expected, we are successfully completed pilot test using
+  college cloud.  My observation is, College Cloud should run on LAN
+  in order to achieve 100-200 users for 10-20 labs at a time. Over the
+  Wifi only 20-30 students/lab users can use 3-5 labs at a time, it
+  very low as we know.
